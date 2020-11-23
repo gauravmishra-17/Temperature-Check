@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589602634304",
+    "firebase_url": "https://temperaturecheck-26d40.firebaseio.com",
+    "project_id": "temperaturecheck-26d40",
+    "storage_bucket": "temperaturecheck-26d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589602634304:android:3e357c182754ae1c233da5",
+        "android_client_info": {
+          "package_name": "com.example.temperature_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589602634304-jim0fb8ctq7u6d9j9fpr26ouvv2p6gof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAak3P9AFGGN5TfEELmTVNJ-yQT6oKZnc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589602634304-jim0fb8ctq7u6d9j9fpr26ouvv2p6gof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
